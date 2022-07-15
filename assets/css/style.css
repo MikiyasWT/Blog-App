@@ -1,0 +1,39 @@
+.post-date {
+    background:#f4f4f4;
+    padding: 4px;
+    margin: 3px 0;
+    display: block;
+}
+
+.post-thumb {
+    max-width: 30%;
+}
+
+
+.pagination-links {
+    margin: 80px 0;
+    margin-left: 700px;
+
+}
+
+a.pagination-link strong{
+    padding: 8px 13px;
+    margin: 5px;
+    background: #f8eded;
+    border: 1px #ccc solid;
+    text-decoration: none;
+}
+
+a.pagination-link{
+    padding: 8px 13px;
+    margin: 5px;
+    background: #06b32b;
+    color: #ccc;
+    border: 1px #ccc solid;
+    text-decoration: none;
+}
+
+.cat-delete {
+    display: inline;
+    float: right;
+}
